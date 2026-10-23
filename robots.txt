@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artemigna777-sudo.github.io/Pdd.game/sitemap.xml
